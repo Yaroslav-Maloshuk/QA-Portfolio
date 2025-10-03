@@ -19,6 +19,6 @@
 - Collected screenshots for documentation.  
 
 **Key Achievements:**  
-- Found X critical and Y minor bugs.  
+- Found 9 high priority bugs.  
 - Ensured coverage of main user flows.
 - Improved user experience by finding and reporting key software issues.
