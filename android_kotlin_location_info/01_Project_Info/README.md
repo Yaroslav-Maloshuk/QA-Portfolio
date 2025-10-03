@@ -1,10 +1,12 @@
-# Project Name: MyApp Testing
+# Project Name: android_kotlin_location_info
 
-**Type:** Functional Mobile App (Android/iOS)  
+**Link:** https://github.com/Pragament/android_kotlin_location_info
+
+**Type:** Functional Mobile App (Android - Kotlin)  
 
 **Goal:** Verify app functionality and report bugs.  
 
-**Scope:** ...  
+**Scope:** The scope of testing covered functional validation of the android_kotlin_location_info mobile application across multiple Android versions (8.1 to 16) and devices (Pixel 2 through Pixel 9 Pro XL, including Pixel Fold). The focus was on verifying core features such as location access, permissions handling, real-time updates, and UI responsiveness. Testing included positive and negative scenarios, edge cases, and compatibility validation to ensure a stable and consistent user experience across supported devices and operating systems.  
 
 **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14).
 
