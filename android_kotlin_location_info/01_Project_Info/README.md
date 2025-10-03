@@ -4,6 +4,7 @@
 **Goal:** Verify app functionality and report bugs.  
 **Scope:** ...  
 **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14).
+
 **Tools Used:** Android Studio, Excel for test-cases & bug reports.  
 
 **What I did:**  
