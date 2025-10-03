@@ -16,6 +16,5 @@
 	- Documented tests with screenshots and structured reports.
 
 **Key Achievements**
-	- Ensured coverage of main flows: authentication, export, filtering, sorting, and error handling.
-	
+	- Ensured coverage of main flows: authentication, export, filtering, sorting, and error handling. \n
 	- Improved API reliability and user experience by identifying key issues early.
