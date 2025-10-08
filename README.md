@@ -97,12 +97,21 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
   - Reported and tracked bugs with screenshots
   - Tested across OS
 
----
-
-## 🔗 How to Use
-- Open project folders for detailed test cases, bug reports, and devices used  
-- Check `05_Extras` for Postman collections, screenshots, and logs  
-- Each project has its own mini README.md with project-specific details  
+### 1️⃣1️⃣ Ringostat API Testing
+- **Folder:** `Ringostat`
+- **Type:** API Testing
+- **Goal:** Validate the functionality, reliability, and error handling of Ringostat’s call log export API.
+- **Scope:** Functional testing of API endpoints (/calls/list) including parameters, filters, authentication, data export formats, sorting, and error handling.
+- **Tools Used:** Postman, Excel (for test cases & bug reports)
+- **What I did:**
+  - Designed and executed manual API test cases.
+  - Verified positive and negative scenarios.
+  - Reported and tracked bugs with detailed reproduction steps.
+  - Ensured response validation for JSON/CSV outputs.
+  - Documented tests with screenshots and structured reports.
+- **Key Achievements:**
+  - Ensured coverage of main flows: authentication, export, filtering, sorting, and error handling.
+  - Improved API reliability and user experience by identifying key issues early.
 
 ---
 
