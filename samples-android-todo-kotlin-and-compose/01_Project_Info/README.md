@@ -13,9 +13,9 @@
   - Collected screenshots for documentation.
 - **Key Achievements:**
   -	Designed and executed a comprehensive manual test suite covering all core app functionalities.
-	-	Identified and documented UI message handling bugs (e.g., missing deletion confirmation popups).
-	-	Validated functional consistency across 7 Pixel devices running Android versions 8.1 to 16, ensuring backward and forward compatibility.
-	-	Created a structured Excel-based test matrix linking each case to environment, steps, expected and actual results, and GitHub reference URLs.
-	-	Delivered clear bug reproduction reports with screenshots, supporting streamlined developer debugging.
-	-	Ensured full coverage of CRUD operations (Create, Read, Update, Delete) and cross-tab task synchronization (“Not Done Yet” ↔ “Done”).
-	-	Contributed to improving app stability and UX consistency by providing actionable QA insights.
+  -	Identified and documented UI message handling bugs (e.g., missing deletion confirmation popups).
+  -	Validated functional consistency across 7 Pixel devices running Android versions 8.1 to 16, ensuring backward and forward compatibility.
+  -	Created a structured Excel-based test matrix linking each case to environment, steps, expected and actual results, and GitHub reference URLs.
+  -	Delivered clear bug reproduction reports with screenshots, supporting streamlined developer debugging.
+  - Ensured full coverage of CRUD operations (Create, Read, Update, Delete) and cross-tab task synchronization (“Not Done Yet” ↔ “Done”).
+  - Contributed to improving app stability and UX consistency by providing actionable QA insights.
