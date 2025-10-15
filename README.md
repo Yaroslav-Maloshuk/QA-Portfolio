@@ -40,7 +40,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 - **Link:** ...
 - **Type:** Functional Mobile App (Android - Kotlin)
 - **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Scope:** The testing scope covered full functional validation of the samples-android-todo-kotlin-and-compose mobile app to ensure correct behavior of task management features across multiple Android versions and form factors. The primary focus was on verifying task lifecycle operations — adding, marking as done, and deleting tasks — as well as assessing UI responsiveness, state persistence, and user feedback mechanisms (toasts/popups). Testing included regression checks, validation of expected vs. actual UI messages, and documentation of discovered issues through detailed test cases and screenshots.
 - **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14)
 - **Tools Used:** Android Studio, Excel for test-cases & bug reports.
 - **What I did:**  
@@ -49,7 +49,13 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
   - Tested across multiple devices and operating systems.
   - Collected screenshots for documentation.
 - **Key Achievements:**
-  - ...
+  -	Designed and executed a comprehensive manual test suite covering all core app functionalities.
+  -	Identified and documented UI message handling bugs (e.g., missing deletion confirmation popups).
+  -	Validated functional consistency across 7 Pixel devices running Android versions 8.1 to 16, ensuring backward and forward compatibility.
+  -	Created a structured Excel-based test matrix linking each case to environment, steps, expected and actual results, and GitHub reference URLs.
+  -	Delivered clear bug reproduction reports with screenshots, supporting streamlined developer debugging.
+  - Ensured full coverage of CRUD operations (Create, Read, Update, Delete) and cross-tab task synchronization (“Not Done Yet” ↔ “Done”).
+  - Contributed to improving app stability and UX consistency by providing actionable QA insights.
 
 ### 3️⃣ Coffeegram
 - **Folder:** `Coffeegram`
