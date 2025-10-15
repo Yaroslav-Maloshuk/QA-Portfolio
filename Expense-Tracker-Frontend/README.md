@@ -1,0 +1,15 @@
+### 4️⃣ Expense-Tracker-Frontend
+- **Folder:** `Expense-Tracker-Frontend`
+- **Link:** ...
+- **Type:** Functional Mobile App (Android - Kotlin)
+- **Goal:** Verify app functionality and report bugs.
+- **Scope:** ...
+- **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14)
+- **Tools Used:** Android Studio, Excel for test-cases & bug reports.
+- **What I did:**  
+  - Created and executed manual test cases.
+  - Reported and tracked bugs with detailed reproduction steps.
+  - Tested across multiple devices and operating systems.
+  - Collected screenshots for documentation.
+- **Key Achievements:**
+  - ...
