@@ -5,7 +5,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 
 ---
 
-## 🛠 Skills Demonstrated
+## 🛠 Skills
 - **Manual Testing**: Web, Android, iOS  
 - **API Testing**: Postman, Swagger  
 - **Bug Reporting**: Jira-style Excel reports, detailed reproduction steps  
