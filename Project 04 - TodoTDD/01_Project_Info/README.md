@@ -1,0 +1,15 @@
+### 9️⃣ Project 04 - TodoTDD
+- **Folder:** `Project 04 - TodoTDD`
+- **Link:** https://github.com/soapyigu/Swift-30-Projects
+- **Type:** Functional Mobile App (iOS - Swift)
+- **Goal:** Verify app functionality and report bugs.
+- **Scope:** ...
+- **Devices Tested:** iPhone SE (2nd gen) (iOS 16.0), iPhone 13 (iOS 16.0), iPhone 15 Pro (iOS 17.0), iPhone 16 Pro Max (iOS 18.0), iPhone 17 (iOS 26.0), iPhone 17 Pro (iOS 26.0), iPhone 17 Pro Max (iOS 18.0), iPad (10th gen) (iOS 17.0), iPad Pro M4 (iOS 18.0)
+- **Tools Used:** XCode, Excel for test-cases & bug reports.
+- **What I did:**  
+  - Created and executed manual test cases.
+  - Reported and tracked bugs with detailed reproduction steps.
+  - Tested across multiple devices and operating systems.
+  - Collected screenshots for documentation.
+- **Key Achievements:**
+  - ...
