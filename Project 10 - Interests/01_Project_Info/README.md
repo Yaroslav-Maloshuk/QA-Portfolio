@@ -1,15 +1,20 @@
 ### 🔟 Project 10 - Interests
 - **Folder:** `Project 10 - Interests`
-- **Link:** 
+- **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
 - **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Scope:** The testing scope focused on validating the core CRUD features (Create, Read, Update, Delete) of the Interests module within the app. Testing included verifying that users can add new interests, edit existing ones, and delete them correctly, with proper UI updates and feedback messages. Additional focus areas included data persistence, UI response consistency across multiple iOS versions (16–18), and cross-device usability on both iPhones and iPads. Manual testing also covered edge cases such as invalid inputs, duplicated entries, and synchronization of interest states after relaunch. All tests were documented in Excel, referencing expected and actual results with supporting GitHub links and screenshots.
 - **Devices Tested:** iPhone SE (2nd gen) (iOS 16.0), iPhone 13 (iOS 16.0), iPhone 15 Pro (iOS 17.0), iPhone 16 Pro Max (iOS 18.0), iPhone 17 (iOS 26.0), iPhone 17 Pro (iOS 26.0), iPhone 17 Pro Max (iOS 18.0), iPad (10th gen) (iOS 17.0), iPad Pro M4 (iOS 18.0)
 - **Tools Used:** XCode, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Created and executed detailed manual test cases for all CRUD operations.
+	- Reported and tracked functional bugs with clear reproduction steps and screenshots.
+	-	Verified functionality across iPhone and iPad devices with various iOS versions.
+	-	Documented results and defect logs in structured Excel test matrices.
 - **Key Achievements:**
-  - ...
+  - Designed and implemented a full manual QA coverage plan for the Interests module.
+	-	Identified multiple core defects preventing interest addition, editing, and deletion.
+	-	Ensured cross-version stability on devices running iOS 16 through 18.
+	-	Improved test documentation quality by including preconditions, steps, and references.
+	-	Contributed to enhancing data handling reliability through detailed issue reports.
+	-	Provided actionable QA insights that helped streamline future development sprints.
