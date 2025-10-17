@@ -104,24 +104,8 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
   - Collected screenshots for documentation.
 - **Key Achievements:**
   - ...
-
-### 6️⃣ sample-apps-ios-swift-xcode6
-- **Folder:** `sample-apps-ios-swift-xcode6`
-- **Link:** 
-- **Type:** Functional Mobile App (iOS - Swift)
-- **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
-- **Devices Tested:** iPhone 15 Pro (iOS 17.0), iPhone 16 Pro Max (iOS 18.0), iPad Pro (iOS 17.0)
-- **Tools Used:** XCode, Excel for test-cases & bug reports.
-- **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
-- **Key Achievements:**
-  - ...
  
-### 7️⃣ Project 02 - Stopwatch
+### 6️⃣ Project 02 - Stopwatch
 - **Folder:** `Project 02 - Stopwatch`
 - **Link:** 
 - **Type:** Functional Mobile App (iOS - Swift)
@@ -137,7 +121,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 - **Key Achievements:**
   - ...
  
-### 8️⃣ Project 03 - FacebookMe
+### 7️⃣ Project 03 - FacebookMe
 - **Folder:** `Project 03 - FacebookMe`
 - **Link:** 
 - **Type:** Functional Mobile App (iOS - Swift)
@@ -153,7 +137,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 - **Key Achievements:**
   - ...
 
-### 9️⃣ Project 04 - TodoTDD
+### 8️⃣ Project 04 - TodoTDD
 - **Folder:** `Project 04 - TodoTDD`
 - **Link:** 
 - **Type:** Functional Mobile App (iOS - Swift)
@@ -169,7 +153,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 - **Key Achievements:**
   - ...
  
-### 🔟 Project 10 - Interests
+### 9️⃣ Project 10 - Interests
 - **Folder:** `Project 10 - Interests`
 - **Link:** 
 - **Type:** Functional Mobile App (iOS - Swift)
@@ -185,7 +169,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 - **Key Achievements:**
   - ...
 
-### 1️⃣1️⃣ Ringostat API Testing
+### 🔟 Ringostat API Testing
 - **Folder:** `Ringostat`
 - **Type:** API Testing
 - **Goal:** Validate the functionality, reliability, and error handling of Ringostat’s call log export API.
