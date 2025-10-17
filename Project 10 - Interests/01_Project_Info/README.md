@@ -8,13 +8,13 @@
 - **Tools Used:** XCode, Excel for test-cases & bug reports.
 - **What I did:**  
   - Created and executed detailed manual test cases for all CRUD operations.
-	- Reported and tracked functional bugs with clear reproduction steps and screenshots.
-	-	Verified functionality across iPhone and iPad devices with various iOS versions.
-	-	Documented results and defect logs in structured Excel test matrices.
+  - Reported and tracked functional bugs with clear reproduction steps and screenshots.
+  -	Verified functionality across iPhone and iPad devices with various iOS versions.
+  - Documented results and defect logs in structured Excel test matrices.
 - **Key Achievements:**
   - Designed and implemented a full manual QA coverage plan for the Interests module.
-	-	Identified multiple core defects preventing interest addition, editing, and deletion.
-	-	Ensured cross-version stability on devices running iOS 16 through 18.
-	-	Improved test documentation quality by including preconditions, steps, and references.
-	-	Contributed to enhancing data handling reliability through detailed issue reports.
-	-	Provided actionable QA insights that helped streamline future development sprints.
+  - Identified multiple core defects preventing interest addition, editing, and deletion.
+  -	Ensured cross-version stability on devices running iOS 16 through 18.
+  -	Improved test documentation quality by including preconditions, steps, and references.
+  -	Contributed to enhancing data handling reliability through detailed issue reports.
+  -	Provided actionable QA insights that helped streamline future development sprints.
