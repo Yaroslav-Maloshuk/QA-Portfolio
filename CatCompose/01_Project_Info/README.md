@@ -1,15 +1,22 @@
 ### 5️⃣ CatCompose
 - **Folder:** `CatCompose`
-- **Link:** 
+- **Link:** https://github.com/adrianolc/catcompose
 - **Type:** Functional Mobile App (Android - Kotlin)
-- **Goal:** Verify app functionality and report bugs.
-- **Scope:** 
+- **Goal:** Verify app functionality, UI consistency, and catalog data integrity.
+- **Scope:** The testing scope covered functional validation and data integrity verification of the CatCompose mobile app — an Android application built with Jetpack Compose to display a catalog of cat breeds. The main focus was on ensuring the correct display of breed cards, accuracy of breed characteristics, and data uniqueness within the catalog. Testing included verifying the functionality of breed selection (tapping a cat card to open details) and detecting duplicate entries across multiple devices and OS versions. Additional checks were performed to assess UI layout responsiveness across screen sizes (foldable vs. standard devices).
 - **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14)
 - **Tools Used:** Android Studio, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Created and executed manual test cases for catalog functionality and data validation.
+  - Verified correct display of breed details upon tapping each cat card.
+  - Conducted data integrity checks to identify duplicate entries in the catalog across devices.
+  - Performed UI responsiveness testing on standard and foldable screens.
+  - Reported issues with detailed reproduction steps, expected vs. actual results, and attached references.
+  - Maintained structured Excel documentation linking test cases to GitHub issues.
 - **Key Achievements:**
-  - ...
+  - Confirmed correct functionality of breed detail views (characteristics displayed accurately).
+  - Detected multiple data duplication defects affecting specific breeds (e.g., Turkish Angora, Ragdoll, Scottish Fold, Persian, Somali).
+  - Ensured UI consistency and stable performance across 7 Android devices, including foldable models.
+  - Identified data synchronization inconsistencies across devices running Android 13–16.
+  - Produced comprehensive test coverage and clear bug documentation for developer debugging.
+  - Contributed to improving catalog data integrity and user browsing experience.
