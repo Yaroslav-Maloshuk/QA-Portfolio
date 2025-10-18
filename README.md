@@ -6,12 +6,12 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 ---
 
 ## 🛠 Skills
-- **Manual Testing**: Web, Android, iOS  
+- **Manual Testing**: Web, Mobile (Android/iOS)  
 - **API Testing**: Postman, Swagger  
 - **Bug Reporting**: Jira-style Excel reports, detailed reproduction steps  
 - **Test Cases**: Structured test scenarios  
 - **Devices & Environments**: Multiple OS and browsers  
-- **Tools & Extras**: JMeter, Charles, Python basics, Figma, Tilda  
+- **Tools & Extras**: JMeter, Charles, Python, Figma, Tilda  
 
 ---
 
