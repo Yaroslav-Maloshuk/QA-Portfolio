@@ -184,6 +184,26 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 - **Key Achievements:**
   - Ensured coverage of main flows: authentication, export, filtering, sorting, and error handling.
   - Improved API reliability and user experience by identifying key issues early.
+ 
+### 1️⃣1️⃣ IT_Life_QA_Courses
+- **Folder:** `IT_Life_QA_Courses`
+- **Type:** Equivalence Classes, Boundary Value Analysis, Decision Table, Pairwise Testing, Test Cases, Test Plan, Test Report
+- **Goal:** To design and execute a comprehensive manual QA framework for validating the functional and boundary behavior of the Ringostat system, applying formal test design techniques to ensure optimal test coverage and efficient defect detection.
+- **Scope:** The project covered functional validation and test design methodology practice for multiple Ringostat modules. The focus was on using systematic techniques — Equivalence Partitioning, Boundary Value Analysis (BVA), Decision Tables, and Pairwise Testing — to identify high-priority test conditions, minimize redundancy, and maximize coverage. The testing scope also included the creation of a Test Plan, Test Cases, and Test Report to simulate a complete QA lifecycle: from planning and design through execution and reporting.
+- **Tools Used:** Excel (for equivalence classes, boundary value analysis, decision table, pairwise testing, test cases, test plan, test report)
+- **What I did:**
+  - Applied Equivalence Partitioning and Boundary Value Analysis to derive efficient test sets for input validation.
+	-	Created Decision Tables to handle multi-condition logic scenarios.
+	•	Performed Pairwise Testing using combinatorial logic to reduce total test count while maintaining coverage.
+	•	Authored a detailed Test Plan defining objectives, scope, schedule, and entry/exit criteria.
+	•	Executed designed test cases and documented all results with clear pass/fail indicators.
+	•	Compiled a Test Report summarizing findings, metrics, and improvement recommendations.
+- **Key Achievements:**
+  - Successfully demonstrated mastery of formal test design techniques and QA documentation best practices.
+	- Reduced test redundancy by ~40% through effective use of equivalence and pairwise methods.
+	-	Delivered a structured and traceable QA documentation package (Test Plan → Test Cases → Test Report).
+	-	Improved defect detection efficiency by targeting edge and boundary conditions early.
+	-	Strengthened analytical and reporting skills essential for professional QA processes.
 
 ---
 
