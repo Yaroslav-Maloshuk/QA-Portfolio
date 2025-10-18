@@ -37,7 +37,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 
 ### 2️⃣ samples-android-todo-kotlin-and-compose
 - **Folder:** `samples-android-todo-kotlin-and-compose`
-- **Link:** ...
+- **Link:** https://github.com/bitrise-io/samples-android-todo-kotlin-and-compose
 - **Type:** Functional Mobile App (Android - Kotlin)
 - **Goal:** Verify app functionality and report bugs.
 - **Scope:** The testing scope covered full functional validation of the samples-android-todo-kotlin-and-compose mobile app to ensure correct behavior of task management features across multiple Android versions and form factors. The primary focus was on verifying task lifecycle operations — adding, marking as done, and deleting tasks — as well as assessing UI responsiveness, state persistence, and user feedback mechanisms (toasts/popups). Testing included regression checks, validation of expected vs. actual UI messages, and documentation of discovered issues through detailed test cases and screenshots.
@@ -59,51 +59,72 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 
 ### 3️⃣ Coffeegram
 - **Folder:** `Coffeegram`
-- **Link:** ...
+- **Link:** https://github.com/phansier/Coffeegram
 - **Type:** Functional Mobile App (Android - Kotlin)
 - **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Scope:** The testing scope focused on validating the core drink-tracking logic, calendar functionality, and UI customization settings of the Coffeegram mobile app. Testing covered the entire workflow of adding, removing, and modifying drink entries across past, present, and future dates, ensuring data integrity and logical constraints (e.g., preventing edits on past dates). The Settings module was also tested to confirm theme-switching behavior (System, Light, Dark, Cupertino, Summer, Dynamic) and device compatibility with Android Material and Cupertino styles. Manual testing was executed on multiple Android devices and OS versions to ensure functional consistency and visual accuracy.
 - **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14)
 - **Tools Used:** Android Studio, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Designed and executed detailed manual test cases for drink-tracking, calendar logic, and theme settings.
+  - Verified CRUD actions (add/remove) for drinks across different dates and validated system constraints.
+  - Documented all test scenarios, including edge cases such as bulk additions/removals and invalid dates.
+  - Identified functional bugs and design inconsistencies, providing detailed reproduction steps and screenshots.
+  - Validated UI theme application across devices, detecting failures in “Summer” and “Dynamic” styles.
+  - Compiled all findings into structured Excel test matrices for developer reference.
 - **Key Achievements:**
-  - ...
+  - Uncovered major logic defects allowing drink modifications on past dates that should have been locked.
+  - Validated correct app behavior for present and future dates, confirming stability of normal workflows.
+  - Discovered UI inconsistencies in theme switching (“Summer” and “Dynamic” modes not applying correctly).
+  - Ensured functional coverage across 7 Android devices (Android 8.1 – 16) with different screen formats.
+  - Delivered comprehensive bug documentation with clear reproduction steps, environment details, and attachments.
+  - Contributed to improving data validation and UI consistency, enhancing overall user experience.
  
 ### 4️⃣ Expense-Tracker-Frontend
 - **Folder:** `Expense-Tracker-Frontend`
-- **Link:** ...
+- **Link:** https://github.com/sajaiprathap61/Expense-Tracker-Frontend
 - **Type:** Functional Mobile App (Android - Kotlin)
 - **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Scope:** The testing scope focused on validating the core UI and functional behavior of the Expense Tracker app, including the Today, Month, and Year filtering buttons, as well as expense list interactions (e.g., opening details or receipts).
+Testing aimed to ensure that all interactive UI elements were responsive and correctly linked to their corresponding logic for filtering, viewing, or editing expense data.
+Cross-device testing was conducted to check compatibility across multiple Android versions and screen resolutions, with emphasis on ensuring smooth interaction, proper event handling, and absence of unresponsive UI elements.
 - **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14)
 - **Tools Used:** Android Studio, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Designed and executed manual test cases covering UI interactions and filtering functionality.
+  - Verified button responsiveness and expense item click actions across various devices.
+  - Identified unresponsive UI elements and documented steps for reproduction with screenshots.
+  - Reported issues with detailed logs, expected/actual results, and GitHub reference links.
+  - Conducted compatibility and regression testing across multiple Android OS versions.
 - **Key Achievements:**
-  - ...
+  - Detected a critical UI defect where primary navigation buttons (Today, Month, Year) and expense list items were entirely non-clickable.
+  - Validated backend filtering logic triggers, confirming missing linkage between UI events and functional calls.
+  - Ensured cross-version stability testing on Android 8.1–16 devices.
+  - Created comprehensive test documentation and structured bug reports improving developer debugging efficiency.
+  - Contributed to UI responsiveness and event-handling improvements in subsequent builds.
  
 ### 5️⃣ CatCompose
 - **Folder:** `CatCompose`
-- **Link:** 
+- **Link:** https://github.com/adrianolc/catcompose
 - **Type:** Functional Mobile App (Android - Kotlin)
-- **Goal:** Verify app functionality and report bugs.
-- **Scope:** 
+- **Goal:** Verify app functionality, UI consistency, and catalog data integrity.
+- **Scope:** The testing scope covered functional validation and data integrity verification of the CatCompose mobile app — an Android application built with Jetpack Compose to display a catalog of cat breeds. The main focus was on ensuring the correct display of breed cards, accuracy of breed characteristics, and data uniqueness within the catalog. Testing included verifying the functionality of breed selection (tapping a cat card to open details) and detecting duplicate entries across multiple devices and OS versions. Additional checks were performed to assess UI layout responsiveness across screen sizes (foldable vs. standard devices).
 - **Devices Tested:** Pixel 2 (Android 8.1), Pixel 4a (Android 11), Pixel 6 (Android 13), Pixel 8 Pro (Android 14), Pixel 9 Pro (Android 15), Pixel 9 Pro XL (Android 16), Pixel Fold (Android 14)
 - **Tools Used:** Android Studio, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Created and executed manual test cases for catalog functionality and data validation.
+  - Verified correct display of breed details upon tapping each cat card.
+  - Conducted data integrity checks to identify duplicate entries in the catalog across devices.
+  - Performed UI responsiveness testing on standard and foldable screens.
+  - Reported issues with detailed reproduction steps, expected vs. actual results, and attached references.
+  - Maintained structured Excel documentation linking test cases to GitHub issues.
 - **Key Achievements:**
-  - ...
+  - Confirmed correct functionality of breed detail views (characteristics displayed accurately).
+  - Detected multiple data duplication defects affecting specific breeds (e.g., Turkish Angora, Ragdoll, Scottish Fold, Persian, Somali).
+  - Ensured UI consistency and stable performance across 7 Android devices, including foldable models.
+  - Identified data synchronization inconsistencies across devices running Android 13–16.
+  - Produced comprehensive test coverage and clear bug documentation for developer debugging.
+  - Contributed to improving catalog data integrity and user browsing experience.
  
 ### 6️⃣ Project 02 - Stopwatch
 - **Folder:** `Project 02 - Stopwatch`
