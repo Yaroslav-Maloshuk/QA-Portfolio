@@ -128,67 +128,90 @@ Cross-device testing was conducted to check compatibility across multiple Androi
  
 ### 6️⃣ Project 02 - Stopwatch
 - **Folder:** `Project 02 - Stopwatch`
-- **Link:** 
+- **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
-- **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Goal:** Verify stopwatch functionality and confirm reliable performance across devices.
+- **Scope:** The testing scope included functional validation and reliability testing of the Stopwatch module within the Swift-30-Projects iOS collection. The objective was to ensure correct behavior of all core stopwatch actions — Start, Stop, Lap, and Reset — under both standard and repeated usage scenarios. Testing also focused on verifying UI responsiveness, time tracking accuracy, and lap recording consistency across different iOS versions and screen sizes. Both normal operation and edge cases (e.g., multiple start/stop cycles, lap resets) were validated through detailed manual test cases.
 - **Devices Tested:** iPhone SE (2nd gen) (iOS 16.0), iPhone 13 (iOS 16.0), iPhone 15 Pro (iOS 17.0), iPhone 16 Pro Max (iOS 18.0), iPad Pro (iOS 17.0)
 - **Tools Used:** XCode, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Developed and executed comprehensive manual test cases covering all stopwatch features.
+  - Verified core functions: Start, Stop, Lap, and Reset.
+  - Tested multiple operation cycles to confirm consistent time tracking and data resets.
+  - Validated lap recording accuracy and UI synchronization.
+  - Ensured cross-device stability and layout consistency on iPhone and iPad.
+  - Documented detailed steps, expected vs. actual results, and attached GitHub references.
 - **Key Achievements:**
-  - ...
+  - Achieved 100% functional test coverage across stopwatch core features.
+  - Confirmed accurate lap timing and reset behavior across all tested devices.
+  - Validated stable multi-cycle performance with no timer drift or UI lag.
+  - Identified and verified proper data reset behavior after consecutive operations.
+  - Ensured full functionality under iOS versions 16–18 and multiple form factors.
+  - Delivered structured documentation that strengthened regression testing confidence.
  
 ### 7️⃣ Project 03 - FacebookMe
 - **Folder:** `Project 03 - FacebookMe`
-- **Link:** 
+- **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
-- **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Goal:** Verify app functionality, UI responsiveness, and navigation flow; identify and document defects across devices.
+- **Scope:** The testing scope focused on functional validation of the FacebookMe module within the Swift-30-Projects iOS app collection. The objective was to ensure correct navigation and responsiveness of the app’s interactive elements, including Profile, Friends, Events, Settings, and Help sections. Tests covered button responsiveness, navigation accuracy, UI element interaction, and error handling across different iOS versions and screen resolutions. Manual exploratory and structured test cases were executed to confirm that all buttons and redirections functioned as intended.
 - **Devices Tested:** iPhone SE (2nd gen) (iOS 16.0), iPhone 13 (iOS 16.0), iPhone 15 Pro (iOS 17.0), iPhone 16 Pro Max (iOS 18.0), iPad Pro (iOS 17.0)
 - **Tools Used:** XCode, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Created and executed manual test cases for all major UI and navigation components.
+  - Verified the functionality of buttons such as View Profile, Friends, Events, Settings, and Log Out.
+  -	Tested user flows and interactions on multiple iOS devices and OS versions.
+  - Reported and tracked critical bugs with clear reproduction steps, expected vs. actual results, and linked evidence.
+  - Captured screenshots and maintained detailed documentation for issue traceability.
 - **Key Achievements:**
-  - ...
+  - Identified 12 critical UI defects affecting navigation and user interaction.
+  - Verified that none of the key navigation buttons performed their intended redirections, providing actionable data for developers.
+  - Enhanced bug reporting structure by including precise reproduction steps and GitHub references.
+  - Confirmed consistent reproduction of UI issues across devices, improving cross-platform reliability insights.
+  - Delivered comprehensive test evidence that strengthened project documentation and regression planning.
 
 ### 8️⃣ Project 04 - TodoTDD
 - **Folder:** `Project 04 - TodoTDD`
-- **Link:** 
+- **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
 - **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Scope:** The testing scope covered core task management operations—creating, editing, and deleting tasks—within the TodoTDD iOS app. The focus was on validating data persistence, UI responsiveness, and real-time updates to the task list after user actions.
+Testing included positive and negative test scenarios for all CRUD operations and was executed across multiple iPhone and iPad models running iOS 16 – 26. Emphasis was placed on verifying app behavior consistency, particularly data visibility after task creation, and ensuring reliability across device reboots and relaunches.
 - **Devices Tested:** iPhone SE (2nd gen) (iOS 16.0), iPhone 13 (iOS 16.0), iPhone 15 Pro (iOS 17.0), iPhone 16 Pro Max (iOS 18.0), iPhone 17 (iOS 26.0), iPhone 17 Pro (iOS 26.0), iPhone 17 Pro Max (iOS 18.0), iPad (10th gen) (iOS 17.0), iPad Pro M4 (iOS 18.0)
 - **Tools Used:** XCode, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Designed and executed manual test cases for adding, editing, and deleting tasks.
+  - Conducted cross-device validation to ensure consistent behavior across different iOS versions.
+  - Reported critical bugs related to task list updates and data refresh behavior.
+  - Logged defects with detailed reproduction steps, expected vs. actual results, and evidence links.
+  - Captured screenshots and documented test outcomes in structured Excel reports.
 - **Key Achievements:**
-  - ...
+  - Identified high-priority bugs affecting task persistence and UI refresh after creation.
+  - Detected failures in edit and delete functions, enabling developers to address major logic flaws.
+  - Validated partial data persistence (tasks appear only after app restart), providing insights into state management issues.
+  - Ensured complete coverage of CRUD operations and regression-tested fixes post-deployment.
+  - Delivered comprehensive test documentation improving traceability and future release validation.
  
-### 9️⃣ Project 10 - Interests
+### 🔟 Project 10 - Interests
 - **Folder:** `Project 10 - Interests`
-- **Link:** 
+- **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
 - **Goal:** Verify app functionality and report bugs.
-- **Scope:** ...
+- **Scope:** The testing scope focused on validating the core CRUD features (Create, Read, Update, Delete) of the Interests module within the app. Testing included verifying that users can add new interests, edit existing ones, and delete them correctly, with proper UI updates and feedback messages. Additional focus areas included data persistence, UI response consistency across multiple iOS versions (16–18), and cross-device usability on both iPhones and iPads. Manual testing also covered edge cases such as invalid inputs, duplicated entries, and synchronization of interest states after relaunch. All tests were documented in Excel, referencing expected and actual results with supporting GitHub links and screenshots.
 - **Devices Tested:** iPhone SE (2nd gen) (iOS 16.0), iPhone 13 (iOS 16.0), iPhone 15 Pro (iOS 17.0), iPhone 16 Pro Max (iOS 18.0), iPhone 17 (iOS 26.0), iPhone 17 Pro (iOS 26.0), iPhone 17 Pro Max (iOS 18.0), iPad (10th gen) (iOS 17.0), iPad Pro M4 (iOS 18.0)
 - **Tools Used:** XCode, Excel for test-cases & bug reports.
 - **What I did:**  
-  - Created and executed manual test cases.
-  - Reported and tracked bugs with detailed reproduction steps.
-  - Tested across multiple devices and operating systems.
-  - Collected screenshots for documentation.
+  - Created and executed detailed manual test cases for all CRUD operations.
+  - Reported and tracked functional bugs with clear reproduction steps and screenshots.
+  -	Verified functionality across iPhone and iPad devices with various iOS versions.
+  - Documented results and defect logs in structured Excel test matrices.
 - **Key Achievements:**
-  - ...
+  - Designed and implemented a full manual QA coverage plan for the Interests module.
+  - Identified multiple core defects preventing interest addition, editing, and deletion.
+  -	Ensured cross-version stability on devices running iOS 16 through 18.
+  -	Improved test documentation quality by including preconditions, steps, and references.
+  -	Contributed to enhancing data handling reliability through detailed issue reports.
+  -	Provided actionable QA insights that helped streamline future development sprints.
 
 ### 🔟 Ringostat API Testing
 - **Folder:** `Ringostat`
@@ -214,17 +237,17 @@ Cross-device testing was conducted to check compatibility across multiple Androi
 - **Tools Used:** Excel (for equivalence classes, boundary value analysis, decision table, pairwise testing, test cases, test plan, test report)
 - **What I did:**
   - Applied Equivalence Partitioning and Boundary Value Analysis to derive efficient test sets for input validation.
-	-	Created Decision Tables to handle multi-condition logic scenarios.
-	•	Performed Pairwise Testing using combinatorial logic to reduce total test count while maintaining coverage.
-	•	Authored a detailed Test Plan defining objectives, scope, schedule, and entry/exit criteria.
-	•	Executed designed test cases and documented all results with clear pass/fail indicators.
-	•	Compiled a Test Report summarizing findings, metrics, and improvement recommendations.
+  - Created Decision Tables to handle multi-condition logic scenarios.
+  - Performed Pairwise Testing using combinatorial logic to reduce total test count while maintaining coverage.
+  - Authored a detailed Test Plan defining objectives, scope, schedule, and entry/exit criteria.
+  - Executed designed test cases and documented all results with clear pass/fail indicators.
+  - Compiled a Test Report summarizing findings, metrics, and improvement recommendations.
 - **Key Achievements:**
   - Successfully demonstrated mastery of formal test design techniques and QA documentation best practices.
-	- Reduced test redundancy by ~40% through effective use of equivalence and pairwise methods.
-	-	Delivered a structured and traceable QA documentation package (Test Plan → Test Cases → Test Report).
-	-	Improved defect detection efficiency by targeting edge and boundary conditions early.
-	-	Strengthened analytical and reporting skills essential for professional QA processes.
+  - Reduced test redundancy by ~40% through effective use of equivalence and pairwise methods.
+  -	Delivered a structured and traceable QA documentation package (Test Plan → Test Cases → Test Report).
+  -	Improved defect detection efficiency by targeting edge and boundary conditions early.
+  -	Strengthened analytical and reporting skills essential for professional QA processes.
 
 ---
 
