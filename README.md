@@ -137,7 +137,7 @@ Cross-device testing was conducted to check compatibility across multiple Androi
   - Contributed to improving catalog data integrity and user browsing experience.
  
 ### 6️⃣ Project 02 - Stopwatch
-<img src="" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Project%2002%20-%20Stopwatch/05_Extras/iPhone%20SE%20(2nd%20gen)/iPhone%20SE%20(2nd%20gen).png" width="200" height="320">
 
 - **Folder:** `Project 02 - Stopwatch`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
@@ -162,7 +162,7 @@ Cross-device testing was conducted to check compatibility across multiple Androi
   - Delivered structured documentation that strengthened regression testing confidence.
  
 ### 7️⃣ Project 03 - FacebookMe
-<img src="" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Project%2003%20-%20FacebookMe/05_Extras/iPhone%20SE%20(2nd%20gen)/iPhone%20SE%20(2nd%20gen).png" width="200" height="320">
 
 - **Folder:** `Project 03 - FacebookMe`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
@@ -185,7 +185,7 @@ Cross-device testing was conducted to check compatibility across multiple Androi
   - Delivered comprehensive test evidence that strengthened project documentation and regression planning.
 
 ### 8️⃣ Project 04 - TodoTDD
-<img src="" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Project%2004%20-%20TodoTDD/05_Extras/iPhone%20SE%20(2nd%20gen)/iPhone%20SE%20(2nd%20gen).png" width="200" height="320">
 
 - **Folder:** `Project 04 - TodoTDD`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
@@ -209,7 +209,7 @@ Testing included positive and negative test scenarios for all CRUD operations an
   - Delivered comprehensive test documentation improving traceability and future release validation.
  
 ### 9️⃣ Project 10 - Interests
-<img src="" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Project%2010%20-%20Interests/05_Extras/iPhone%20SE%20(2nd%20gen)/iPhone%20SE%20(2nd%20gen).png" width="200" height="320">
 
 - **Folder:** `Project 10 - Interests`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
