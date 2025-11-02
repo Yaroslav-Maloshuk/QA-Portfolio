@@ -1,5 +1,9 @@
 ### 2️⃣ samples-android-todo-kotlin-and-compose
-<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/samples-android-todo-kotlin-and-compose/05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%201.png" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/samples-android-todo-kotlin-and-compose/05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%202.png" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/samples-android-todo-kotlin-and-compose/05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%203.png" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/samples-android-todo-kotlin-and-compose/05_Extras/Screenshots/Pixel2/TC%20%E2%84%963.png" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/samples-android-todo-kotlin-and-compose/05_Extras/Screenshots/Pixel2/TC%20%E2%84%964.png" width="200" height="320">
 
 - **Folder:** `samples-android-todo-kotlin-and-compose`
 - **Link:** ...
