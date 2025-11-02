@@ -1,4 +1,4 @@
-### 🔟 Project 10 - Interests
+### 9️⃣ Project 10 - Interests
 <img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Project%2010%20-%20Interests/05_Extras/iPhone%20SE%20(2nd%20gen)/iPhone%20SE%20(2nd%20gen).png" width="200" height="320">
 
 - **Folder:** `Project 10 - Interests`
