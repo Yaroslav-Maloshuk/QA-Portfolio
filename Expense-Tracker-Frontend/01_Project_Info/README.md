@@ -1,5 +1,5 @@
 ### 4️⃣ Expense-Tracker-Frontend
-<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Expense-Tracker-Frontend/05_Extras/Videos/Pixel2.mp4" width="200" height="320">
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Expense-Tracker-Frontend/05_Extras/Videos/Pixel2.png" width="200" height="320">
 
 - **Folder:** `Expense-Tracker-Frontend`
 - **Link:** https://github.com/sajaiprathap61/Expense-Tracker-Frontend
