@@ -19,6 +19,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 
 ### 1️⃣ android_kotlin_location_info
 <img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%201.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%962%201.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%962%202.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320">
+
 - **Folder:** `android_kotlin_location_info`
 - **Link:** https://github.com/Pragament/android_kotlin_location_info
 - **Type:** Functional Mobile App (Android - Kotlin)
@@ -38,6 +39,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 
 ### 2️⃣ samples-android-todo-kotlin-and-compose
 <img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320"><img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%966.png" width="200" height="320">
+
 - **Folder:** `samples-android-todo-kotlin-and-compose`
 - **Link:** https://github.com/bitrise-io/samples-android-todo-kotlin-and-compose
 - **Type:** Functional Mobile App (Android - Kotlin)
@@ -61,6 +63,7 @@ I am a **Manual QA Tester** (Web & Mobile) with experience in creating test case
 
 ### 3️⃣ Coffeegram
 <img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Coffeegram/05_Extras/Pixel2/Pixel%202.png" width="200" height="320">
+
 - **Folder:** `Coffeegram`
 - **Link:** https://github.com/phansier/Coffeegram
 - **Type:** Functional Mobile App (Android - Kotlin)
