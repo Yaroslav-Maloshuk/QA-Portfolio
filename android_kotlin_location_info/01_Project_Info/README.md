@@ -1,4 +1,6 @@
 ### 1️⃣ android_kotlin_location_info
+<img src="05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%201.png" width="100" height="10">
+
 ![alt](https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%201.png)
 ![alt](https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%962%201.png)
 ![alt](https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%962%202.png)
