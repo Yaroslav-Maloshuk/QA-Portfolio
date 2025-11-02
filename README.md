@@ -137,6 +137,8 @@ Cross-device testing was conducted to check compatibility across multiple Androi
   - Contributed to improving catalog data integrity and user browsing experience.
  
 ### 6️⃣ Project 02 - Stopwatch
+<img src="" width="200" height="320">
+
 - **Folder:** `Project 02 - Stopwatch`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
@@ -160,6 +162,8 @@ Cross-device testing was conducted to check compatibility across multiple Androi
   - Delivered structured documentation that strengthened regression testing confidence.
  
 ### 7️⃣ Project 03 - FacebookMe
+<img src="" width="200" height="320">
+
 - **Folder:** `Project 03 - FacebookMe`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
@@ -181,6 +185,8 @@ Cross-device testing was conducted to check compatibility across multiple Androi
   - Delivered comprehensive test evidence that strengthened project documentation and regression planning.
 
 ### 8️⃣ Project 04 - TodoTDD
+<img src="" width="200" height="320">
+
 - **Folder:** `Project 04 - TodoTDD`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
@@ -202,7 +208,9 @@ Testing included positive and negative test scenarios for all CRUD operations an
   - Ensured complete coverage of CRUD operations and regression-tested fixes post-deployment.
   - Delivered comprehensive test documentation improving traceability and future release validation.
  
-### 🔟 Project 10 - Interests
+### 9️⃣ Project 10 - Interests
+<img src="" width="200" height="320">
+
 - **Folder:** `Project 10 - Interests`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
