@@ -1,4 +1,5 @@
 ### 3️⃣ Coffeegram
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Coffeegram/05_Extras/Pixel2/Pixel%202.png" width="200" height="320">
 - **Folder:** `Coffeegram`
 - **Link:** https://github.com/phansier/Coffeegram
 - **Type:** Functional Mobile App (Android - Kotlin)
