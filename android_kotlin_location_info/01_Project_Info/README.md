@@ -1,5 +1,5 @@
 ### 1️⃣ android_kotlin_location_info
-![https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%201.png]()
+![alt](https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/android_kotlin_location_info/05_Extras/Screenshots/Pixel2/TC%20%E2%84%961%201.png)
 
 - **Folder:** `android_kotlin_location_info`
 - **Link:** https://github.com/Pragament/android_kotlin_location_info
