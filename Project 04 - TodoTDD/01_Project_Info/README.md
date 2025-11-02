@@ -1,4 +1,6 @@
 ### 8️⃣ Project 04 - TodoTDD
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/Project%2004%20-%20TodoTDD/05_Extras/iPhone%20SE%20(2nd%20gen)/iPhone%20SE%20(2nd%20gen).png" width="200" height="320">
+
 - **Folder:** `Project 04 - TodoTDD`
 - **Link:** https://github.com/soapyigu/Swift-30-Projects
 - **Type:** Functional Mobile App (iOS - Swift)
