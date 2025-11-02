@@ -1,4 +1,6 @@
 ### 5️⃣ CatCompose
+<img src="https://github.com/Yaroslav-Maloshuk/QA-Portfolio/blob/main/CatCompose/05_Extras/Pixel2/Pixel%202.png" width="200" height="320">
+
 - **Folder:** `CatCompose`
 - **Link:** https://github.com/adrianolc/catcompose
 - **Type:** Functional Mobile App (Android - Kotlin)
